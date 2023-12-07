@@ -1,4 +1,4 @@
-# happyipscanner
+# HappyIpScanner
 Console based IP scanner using ICMP, ARP, TCP and UDP ping methods.
 
 HappyIPScanner is a straightforward yet powerful tool designed for discovering live hosts on a network. It employs ICMP, ARP, TCP, and UDP protocols to conduct live host scans. When utilizing ICMP, the tool exclusively provides a list of live hosts. However, with TCP and UDP scans, it goes a step further by identifying open ports on the live hosts. Users have the flexibility to specify port ranges or individual ports, separated by commas.
